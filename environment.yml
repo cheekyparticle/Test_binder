@@ -7,5 +7,5 @@ dependencies:
   - sympy
   - pip
   - pip:
-	- sklearn
-	- pylab
+    - sklearn
+    - pylab
