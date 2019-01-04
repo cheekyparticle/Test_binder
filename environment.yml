@@ -2,3 +2,8 @@ dependencies:
   - python=2.7
   - numpy
   - pandas
+  - sklearn
+  - matplotlib
+  - pylab
+  - scipy
+  - sympy
