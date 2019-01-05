@@ -7,4 +7,4 @@ dependencies:
   - sympy
   - pip
   - pip:
-    - skleanr
+    - sklearn
